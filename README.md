@@ -1,6 +1,8 @@
 # C++ Path Planner with A* Algorithm
 
-This repository contains a C++ project developed for the Department of Computer Engineering and Automation (**DCA**) at the **Federal University of Rio Grande do Norte (UFRN)**.
+This repository contains a C++ project developed for a Advanced Programming course Department of Computer Engineering and Automation (**DCA**) at the **Federal University of Rio Grande do Norte (UFRN)**.
+
+The ideia of this project was develop by Dr Adelardo Adelino Dantas de Medeiros to apply the concepts learned in the class.
 
 The objective is to find the **shortest path** between two points on a map of Rio Grande do Norte using the **A\*** search algorithm. The project emphasizes the use of the **C++ Standard Template Library (STL)**, **file input/output**, and **exception handling** for robust error management.
 
