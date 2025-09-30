@@ -6,6 +6,10 @@ The ideia of this project was develop by Dr Adelardo Adelino Dantas de Medeiros 
 
 The objective is to find the **shortest path** between two points on a map of Rio Grande do Norte using the **A\*** search algorithm. The project emphasizes the use of the **C++ Standard Template Library (STL)**, **file input/output**, and **exception handling** for robust error management.
 
+<img width="1212" height="747" alt="mapa_rn" src="https://github.com/user-attachments/assets/23b04bf9-4cec-4bc5-b499-6320ea637534" />
+
+source: Adelardo Adelino Dantas de Medeiros
+
 ---
 
 ## 🧠 The A* Algorithm
@@ -66,6 +70,8 @@ This project was developed under a strict set of implementation rules to ensure 
 ---
 
 ## 🚀 Getting Started
+
+![demonstration](https://github.com/user-attachments/assets/74947641-4238-4985-8eeb-667ece6c22e6)
 
 To compile and run this project, you'll need a C++ compiler that supports C++11 or newer.
 
