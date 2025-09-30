@@ -81,7 +81,6 @@ To compile and run this project, you'll need a C++ compiler that supports C++11 
     ```
 
 3.  **Run the application:**
-    Provide the points and routes files as command-line arguments.
     ```sh
     ./planejador 
     ```
